@@ -1,2 +1,2 @@
 # for-allison
-a letter
+see the (pdf)[matthewd-to-allisond.pdf]
